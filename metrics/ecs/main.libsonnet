@@ -14,7 +14,7 @@
     },
 
     Metric_MemoryUtilization: {
-        name: "MemoryReservation"
+        name: "MemoryUtilization"
     },
 
     Dimension_ClusterName: {
